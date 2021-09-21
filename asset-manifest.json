@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/DeivyPereira/token-ico-pbv/static/css/main.36497136.chunk.css",
-    "main.js": "/DeivyPereira/token-ico-pbv/static/js/main.a6d319e1.chunk.js",
-    "main.js.map": "/DeivyPereira/token-ico-pbv/static/js/main.a6d319e1.chunk.js.map",
-    "runtime-main.js": "/DeivyPereira/token-ico-pbv/static/js/runtime-main.a4690a2d.js",
-    "runtime-main.js.map": "/DeivyPereira/token-ico-pbv/static/js/runtime-main.a4690a2d.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/DeivyPereira/token-ico-pbv/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.efa1d731.chunk.js": "/DeivyPereira/token-ico-pbv/static/js/2.efa1d731.chunk.js",
-    "static/js/2.efa1d731.chunk.js.map": "/DeivyPereira/token-ico-pbv/static/js/2.efa1d731.chunk.js.map",
-    "index.html": "/DeivyPereira/token-ico-pbv/index.html",
-    "precache-manifest.63b7bdcc0e9e8dff0bcfbcf0dc192b6e.js": "/DeivyPereira/token-ico-pbv/precache-manifest.63b7bdcc0e9e8dff0bcfbcf0dc192b6e.js",
-    "service-worker.js": "/DeivyPereira/token-ico-pbv/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/DeivyPereira/token-ico-pbv/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.36497136.chunk.css.map": "/DeivyPereira/token-ico-pbv/static/css/main.36497136.chunk.css.map",
-    "static/js/2.efa1d731.chunk.js.LICENSE.txt": "/DeivyPereira/token-ico-pbv/static/js/2.efa1d731.chunk.js.LICENSE.txt"
+    "main.css": "/token-ico-pbv/static/css/main.36497136.chunk.css",
+    "main.js": "/token-ico-pbv/static/js/main.a6d319e1.chunk.js",
+    "main.js.map": "/token-ico-pbv/static/js/main.a6d319e1.chunk.js.map",
+    "runtime-main.js": "/token-ico-pbv/static/js/runtime-main.ece8cc59.js",
+    "runtime-main.js.map": "/token-ico-pbv/static/js/runtime-main.ece8cc59.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/token-ico-pbv/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.db2da798.chunk.js": "/token-ico-pbv/static/js/2.db2da798.chunk.js",
+    "static/js/2.db2da798.chunk.js.map": "/token-ico-pbv/static/js/2.db2da798.chunk.js.map",
+    "index.html": "/token-ico-pbv/index.html",
+    "precache-manifest.3e415f23c11c7d3bba06007b39a088c2.js": "/token-ico-pbv/precache-manifest.3e415f23c11c7d3bba06007b39a088c2.js",
+    "service-worker.js": "/token-ico-pbv/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/token-ico-pbv/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/token-ico-pbv/static/css/main.36497136.chunk.css.map",
+    "static/js/2.db2da798.chunk.js.LICENSE.txt": "/token-ico-pbv/static/js/2.db2da798.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a4690a2d.js",
+    "static/js/runtime-main.ece8cc59.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.efa1d731.chunk.js",
+    "static/js/2.db2da798.chunk.js",
     "static/css/main.36497136.chunk.css",
     "static/js/main.a6d319e1.chunk.js"
   ]
