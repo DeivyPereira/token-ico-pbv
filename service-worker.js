@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/token-ico-pbv/precache-manifest.3e415f23c11c7d3bba06007b39a088c2.js"
+  "/token-ico-pbv/precache-manifest.748171e05cf80e7c0279228ecdc52f51.js"
 );
 
 self.addEventListener('message', (event) => {

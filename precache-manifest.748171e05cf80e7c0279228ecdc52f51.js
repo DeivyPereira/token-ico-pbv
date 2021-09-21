@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "63d1ae7c1413456d0a97133bed90ad79",
+    "revision": "87d708d7ee88513dd59e5ec4122459e0",
     "url": "/token-ico-pbv/index.html"
   },
   {
