@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DeivyPereira/token-ico-pbv/static/css/main.36497136.chunk.css",
+    "main.js": "/DeivyPereira/token-ico-pbv/static/js/main.a6d319e1.chunk.js",
+    "main.js.map": "/DeivyPereira/token-ico-pbv/static/js/main.a6d319e1.chunk.js.map",
+    "runtime-main.js": "/DeivyPereira/token-ico-pbv/static/js/runtime-main.a4690a2d.js",
+    "runtime-main.js.map": "/DeivyPereira/token-ico-pbv/static/js/runtime-main.a4690a2d.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/DeivyPereira/token-ico-pbv/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.efa1d731.chunk.js": "/DeivyPereira/token-ico-pbv/static/js/2.efa1d731.chunk.js",
+    "static/js/2.efa1d731.chunk.js.map": "/DeivyPereira/token-ico-pbv/static/js/2.efa1d731.chunk.js.map",
+    "index.html": "/DeivyPereira/token-ico-pbv/index.html",
+    "precache-manifest.3cccd9b64ce27fff9c181cd709b395bd.js": "/DeivyPereira/token-ico-pbv/precache-manifest.3cccd9b64ce27fff9c181cd709b395bd.js",
+    "service-worker.js": "/DeivyPereira/token-ico-pbv/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/DeivyPereira/token-ico-pbv/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/DeivyPereira/token-ico-pbv/static/css/main.36497136.chunk.css.map",
+    "static/js/2.efa1d731.chunk.js.LICENSE.txt": "/DeivyPereira/token-ico-pbv/static/js/2.efa1d731.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4690a2d.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.efa1d731.chunk.js",
+    "static/css/main.36497136.chunk.css",
+    "static/js/main.a6d319e1.chunk.js"
+  ]
+}
