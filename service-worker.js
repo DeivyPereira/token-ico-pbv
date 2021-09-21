@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DeivyPereira/token-ico-pbv/precache-manifest.3cccd9b64ce27fff9c181cd709b395bd.js"
+  "/DeivyPereira/token-ico-pbv/precache-manifest.63b7bdcc0e9e8dff0bcfbcf0dc192b6e.js"
 );
 
 self.addEventListener('message', (event) => {
